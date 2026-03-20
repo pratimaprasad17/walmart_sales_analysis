@@ -5,13 +5,9 @@
 </p>
 
  # 🛒 Sales Analytics Dashboard  
-### End-to-End Business Intelligence Project (SQL + Power BI)
-
----
 
 ## ✨ What this project is about
-
-This project is a complete end-to-end data analytics solution built to understand how a retail business actually performs — not just at a high level, but across products, customers, employees, and regions.
+This project is a complete end-to-end data analytics and business intelligence solution built to understand how a retail business actually performs — not just at a high level, but across products, customers, employees, and regions.
 
 Using Walmart sales data, I designed a system that answers a simple but powerful question:
 
@@ -19,7 +15,7 @@ Using Walmart sales data, I designed a system that answers a simple but powerful
 
 From raw transactional data to interactive dashboards, every step of this project was built to simulate a real-world business intelligence workflow.
 
----
+
 
 ## 🧠 The Problem
 
@@ -34,13 +30,13 @@ Sales don’t exist in isolation — they depend on:
 
 The goal of this project was to perform **descriptive analysis** across all these dimensions and uncover patterns that can drive better decisions.
 
----
+
 
 ## 📊 What I built
 
 A **6-page Power BI reporting system** that breaks down the business into clear, actionable layers:
 
----
+
 
 ### 🟡 Executive Dashboard  
 A quick snapshot of business health
@@ -54,7 +50,9 @@ A quick snapshot of business health
 
 This page answers: *“How is the business doing overall?”*
 
----
+<img width="1476" height="847" alt="image" src="https://github.com/user-attachments/assets/d0fd31ef-77d1-410c-a7a2-7c7296328af7" />
+
+
 
 ### 📈 Sales Trends Dashboard  
 Understanding performance over time
@@ -66,7 +64,8 @@ Understanding performance over time
 
 This helps identify **growth patterns and demand cycles**
 
----
+<img width="1477" height="835" alt="image" src="https://github.com/user-attachments/assets/92d7b6c0-2374-45a3-8cda-67eb313a2f22" />
+
 
 ### 📦 Product Dashboard  
 What’s selling and what’s not
@@ -79,7 +78,8 @@ What’s selling and what’s not
 Example insight:  
 Products like *Area Force* consistently lead in revenue contribution
 
----
+<img width="1473" height="852" alt="image" src="https://github.com/user-attachments/assets/42d2253b-329c-4d4e-8ea5-17cdce5eb82e" />
+
 
 ### 🌍 Geography Dashboard  
 Where the business is strongest
@@ -91,7 +91,8 @@ Where the business is strongest
 
 This answers: *“Where should we expand or optimize?”*
 
----
+<img width="1480" height="850" alt="image" src="https://github.com/user-attachments/assets/859d1163-7181-490c-973f-24cb6e5e5ccf" />
+
 
 ### 👤 Customer Dashboard  
 How customers behave
@@ -103,7 +104,8 @@ How customers behave
 
 Shows **how customers interact with the business**
 
----
+<img width="1477" height="852" alt="image" src="https://github.com/user-attachments/assets/df46502f-1723-4d85-a482-26c588a8c94f" />
+
 
 ### 👨‍💼 Employee Dashboard  
 Who is driving performance
@@ -115,7 +117,8 @@ Who is driving performance
 
 This helps identify **top performers and optimization opportunities**
 
----
+<img width="1477" height="847" alt="image" src="https://github.com/user-attachments/assets/dc66311e-b276-4f53-a683-e8ad1a32f825" />
+
 
 ## ⚙️ How it was built
 
